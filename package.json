@@ -1,0 +1,27 @@
+{
+	"name": "w3css-ui",
+	"version": "1.0.0-init",
+	"description": "Components by W3CSS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/emreyilmazin/w3css-ui.git"
+	},
+	"keywords": [
+		"react",
+		"w3css",
+		"component",
+		"ui",
+		"ui",
+		"library"
+	],
+	"author": "emreyilmazin@gmail.com",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/emreyilmazin/w3css-ui/issues"
+	},
+	"homepage": "https://github.com/emreyilmazin/w3css-ui#readme"
+}
